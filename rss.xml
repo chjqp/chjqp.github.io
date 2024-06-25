@@ -10,9 +10,21 @@
         </author>
         <description>Within Reach</description>
         <language>zh-CN</language>
-        <pubDate>Tue, 25 Jun 2024 02:40:04 +0800</pubDate>
-        <lastBuildDate>Tue, 25 Jun 2024 02:40:04 +0800</lastBuildDate>
+        <pubDate>Tue, 25 Jun 2024 14:12:30 +0800</pubDate>
+        <lastBuildDate>Tue, 25 Jun 2024 14:12:30 +0800</lastBuildDate>
         <category term="记录经验日常&amp;分享项目代码" />
+        <item>
+            <guid isPermalink="true">http://example.com/2024/06/25/%E4%BC%9A%E6%B0%B8%E8%BF%9C%E8%AE%B0%E7%9D%80%E4%BD%A0%E7%9A%84%EF%BC%8C%E6%88%91%E7%94%A8%E4%BA%86%E5%BE%88%E5%A4%9A%E5%B9%B4%E7%9A%84%E5%A4%B4%E5%83%8F/</guid>
+            <title>会永远记着你的，我用了很多年的头像</title>
+            <link>http://example.com/2024/06/25/%E4%BC%9A%E6%B0%B8%E8%BF%9C%E8%AE%B0%E7%9D%80%E4%BD%A0%E7%9A%84%EF%BC%8C%E6%88%91%E7%94%A8%E4%BA%86%E5%BE%88%E5%A4%9A%E5%B9%B4%E7%9A%84%E5%A4%B4%E5%83%8F/</link>
+            <category term="生活" scheme="http://example.com/categories/%E7%94%9F%E6%B4%BB/" />
+            <category term="不要忘" scheme="http://example.com/tags/%E4%B8%8D%E8%A6%81%E5%BF%98/" />
+            <pubDate>Tue, 25 Jun 2024 14:12:30 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/chjqp/hubterimage@main/img/202406251418797.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;主要是学了计算机可以把一些网上的其他不是很满意的问雅的照片变的精致&lt;/p&gt;
+&lt;p&gt;真的真的，很喜欢问雅积极向上的精神&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2024/06/25/share-code/</guid>
             <title>share code</title>
