@@ -103,7 +103,16 @@
         <id>http://example.com/2024/06/26/Go-Vue%E5%89%8D%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BBblog%E5%90%AF%E5%8A%A8/</id>
         <title>Go+Vue前后端分离blog启动</title>
         <link rel="alternate" href="http://example.com/2024/06/26/Go-Vue%E5%89%8D%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BBblog%E5%90%AF%E5%8A%A8/"/>
-        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;script class=&#34;meting-secondary-script-marker&#34; src=&#34;\assets\js\Meting.min.js&#34;&gt;&lt;/script&gt;</content>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;script class=&#34;meting-secondary-script-marker&#34; src=&#34;\assets\js\Meting.min.js&#34;&gt;&lt;/script&gt;&lt;p&gt;业务思路&lt;/p&gt;
+&lt;p&gt;1 先设计数据库结构&lt;/p&gt;
+&lt;p&gt;2 前后端进行 api 接口的规定，进行交互&lt;/p&gt;
+&lt;p&gt;3model 里存 User.go  数据库 User 的表的定义，增加，删除用户的操作&lt;/p&gt;
+&lt;p&gt;与 api v1 里（v 几是有几代版本）的 addUser 交互（AddUser 调用 User) 的函数&lt;/p&gt;
+&lt;p&gt;4route 里 router.go 进行路由的设置&lt;/p&gt;
+&lt;p&gt;5config 进行配置的设置，不用去改源码&lt;/p&gt;
+&lt;p&gt;6utils 放一些全局的组件，公共的内容&lt;/p&gt;
+&lt;p&gt;7main.go 主函数&lt;/p&gt;
+</content>
         <category term="教程" scheme="http://example.com/categories/%E6%95%99%E7%A8%8B/" />
         <category term="Go" scheme="http://example.com/tags/Go/" />
         <category term="前端" scheme="http://example.com/tags/%E5%89%8D%E7%AB%AF/" />

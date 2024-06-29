@@ -113,7 +113,16 @@
             <category term="Vue" scheme="http://example.com/tags/Vue/" />
             <category term="三剑客" scheme="http://example.com/tags/%E4%B8%89%E5%89%91%E5%AE%A2/" />
             <pubDate>Wed, 26 Jun 2024 13:13:40 +0800</pubDate>
-            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;script class=&#34;meting-secondary-script-marker&#34; src=&#34;\assets\js\Meting.min.js&#34;&gt;&lt;/script&gt; ]]></description>
+            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;script class=&#34;meting-secondary-script-marker&#34; src=&#34;\assets\js\Meting.min.js&#34;&gt;&lt;/script&gt;&lt;p&gt;业务思路&lt;/p&gt;
+&lt;p&gt;1 先设计数据库结构&lt;/p&gt;
+&lt;p&gt;2 前后端进行 api 接口的规定，进行交互&lt;/p&gt;
+&lt;p&gt;3model 里存 User.go  数据库 User 的表的定义，增加，删除用户的操作&lt;/p&gt;
+&lt;p&gt;与 api v1 里（v 几是有几代版本）的 addUser 交互（AddUser 调用 User) 的函数&lt;/p&gt;
+&lt;p&gt;4route 里 router.go 进行路由的设置&lt;/p&gt;
+&lt;p&gt;5config 进行配置的设置，不用去改源码&lt;/p&gt;
+&lt;p&gt;6utils 放一些全局的组件，公共的内容&lt;/p&gt;
+&lt;p&gt;7main.go 主函数&lt;/p&gt;
+ ]]></description>
         </item>
         <item>
             <guid isPermalink="true">http://example.com/2024/06/25/%E5%B0%8F%E5%AE%89%E6%8E%92/</guid>
