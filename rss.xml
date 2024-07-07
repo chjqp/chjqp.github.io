@@ -10,9 +10,20 @@
         </author>
         <description>Within Reach</description>
         <language>zh-CN</language>
-        <pubDate>Wed, 26 Jun 2024 13:39:45 +0800</pubDate>
-        <lastBuildDate>Wed, 26 Jun 2024 13:39:45 +0800</lastBuildDate>
+        <pubDate>Sun, 07 Jul 2024 12:46:32 +0800</pubDate>
+        <lastBuildDate>Sun, 07 Jul 2024 12:46:32 +0800</lastBuildDate>
         <category term="记录经验日常&amp;分享项目代码" />
+        <item>
+            <guid isPermalink="true">http://example.com/2024/07/07/%E7%AE%97%E6%B3%95/</guid>
+            <title>算法</title>
+            <link>http://example.com/2024/07/07/%E7%AE%97%E6%B3%95/</link>
+            <category term="算法" scheme="http://example.com/categories/%E7%AE%97%E6%B3%95/" />
+            <category term="语法" scheme="http://example.com/tags/%E8%AF%AD%E6%B3%95/" />
+            <pubDate>Sun, 07 Jul 2024 12:46:32 +0800</pubDate>
+            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;script class=&#34;meting-secondary-script-marker&#34; src=&#34;\assets\js\Meting.min.js&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;我知道我想要的&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#我知道我想要的&#34;&gt;#&lt;/a&gt; 我知道我想要的&lt;/h1&gt;
+&lt;p&gt;我知道，我只是不反感算法，但它不是能陪我一辈子的寄托，我做题，只是因为有意思，比赛能拿奖，能熟练 c++,py,go 三种语言语法，快比赛了，可以全身心投入准备了，先暂时停更个人博客前端。&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2024/06/26/%E8%8B%B1%E8%AF%AD%E8%80%83%E5%89%8D%E5%A4%8D%E4%B9%A0/</guid>
             <title>（考完后记录，继上学期期末考试的全原题，3次itest测试的原题，这次又两道听力原题 英语考前复习圆满成功，突击的效果特别好</title>
